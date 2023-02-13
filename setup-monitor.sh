@@ -1,2 +1,2 @@
-sudo apt-get installl prometheus-node-exporter
+sudo apt-get install prometheus-node-exporter
 systemctl enable prometheus-node-exporter
